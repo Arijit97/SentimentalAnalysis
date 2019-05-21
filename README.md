@@ -12,3 +12,6 @@ python -m textblob.download_corpora
 
 Run the main Python file:- Twitter Client.py
 python TwitterClient.py
+
+
+This project has been converted to research work and presented at International Conference on Computational Intelligence and Data Science(ICCIDS)2018 and published in globally renowned journal, Elsvier Publications.
